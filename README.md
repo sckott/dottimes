@@ -7,11 +7,13 @@ Ruby like `.times` methods
 
 Development version
 
-```{r eval=FALSE}
+
+```r
 devtools::install_github("sckott/dottimes")
 ```
 
-```{r}
+
+```r
 library("dottimes")
 ```
 
