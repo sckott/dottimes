@@ -1,0 +1,15 @@
+Package: dottimes
+Type: Package
+Title: European Nucleotide Archive Client
+Description: European Nucleotide Archive Client.
+Version: 0.0.1.9000
+Authors@R: c(person("Scott", "Chamberlain", role = c("aut", "cre"),
+    email = "myrmecocystus@gmail.com"))
+License: MIT + file LICENSE
+URL: https://github.com/sckott/dottimes
+BugReports: https://github.com/sckott/dottimes/issues
+Imports:
+    lazyeval
+Suggests:
+    roxygen2 (>= 5.0.1)
+RoxygenNote: 5.0.1
